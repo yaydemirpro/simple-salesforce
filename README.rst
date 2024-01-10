@@ -3,9 +3,11 @@ Simple Salesforce
 ********************
 
 .. image:: https://api.travis-ci.org/simple-salesforce/simple-salesforce.svg?branch=master
-   :target: https://travis-ci.org/simple-salesforce/simple-salesforce
 
+   :target: https://travis-ci.org/simple-salesforce/simple-salesforce
+ 
 .. image:: https://readthedocs.org/projects/simple-salesforce/badge/?version=latest
+ 
    :target: http://simple-salesforce.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
@@ -23,6 +25,7 @@ There are two ways to gain access to Salesforce
 
 The first is to simply pass the domain of your Salesforce instance and an access token straight to ``Salesforce()``
 
+ 
 For example:
 
 .. code-block:: python
